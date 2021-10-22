@@ -1,0 +1,16 @@
+ Volume in drive D is 새 볼륨
+ Volume Serial Number is BE70-7273
+
+ Directory of d:\homework\Compiler Introduction\HFtoC
+
+2021-09-07  오후 12:35    <DIR>          .
+2021-09-07  오후 12:35    <DIR>          ..
+2021-09-07  오전 12:04    <DIR>          .vscode
+2021-09-07  오후 12:34             3,466 hf2c.c
+2021-09-07  오후 12:34            62,673 hf2c.exe
+2021-09-07  오후 12:35                 0 res
+2021-09-07  오후 12:34               431 test.c
+2021-09-07  오후 12:35            57,473 test.exe
+2021-09-07  오전 11:09               155 test.hf
+               6 File(s)        124,198 bytes
+               3 Dir(s)  196,191,649,792 bytes free

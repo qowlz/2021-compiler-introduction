@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestANTLR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestANTLR_jar</output-path>
+    <root id="archive" name="TestANTLR.jar">
+      <element id="module-output" name="TestANTLR" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/antlr-4.9-complete.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
